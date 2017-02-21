@@ -1,0 +1,43 @@
+*{
+  font-style: italic;
+  font-family: cursive;
+}
+body{
+  background-color: lightblue;
+  padding: 20px;
+}
+
+h1{
+  color: darkblue;
+  padding: 20px;
+}
+h2{
+  color : darkred;
+  padding: 20px;
+}
+.inputs{
+    padding: 20px;
+    text-align: center;
+}
+.in1 , .in2{
+width: 30%;
+padding: 20px;
+}
+.adding{
+    background-color: lightgreen;
+    width: 30%;
+    margin: 7px;
+}
+button p {
+  color: black;
+  font-size: 18pt;
+}
+.oneByOneDelete{
+  background-color: lightgreen;
+  width: 10%;
+  margin: 4px;
+}
+.filterInput{
+  width: 30%;
+  padding: 20px;
+}
